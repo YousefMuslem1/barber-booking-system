@@ -1,49 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Barber Booking System</title>
-  <style>
-    /* Basic styling for the README */
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-      background: #f9f9f9;
-      color: #333;
-    }
-    h1, h2, h3 {
-      color: #2c3e50;
-    }
-    pre {
-      background: #ecf0f1;
-      padding: 10px;
-      border-radius: 4px;
-      overflow-x: auto;
-    }
-    code {
-      font-family: Consolas, monospace;
-    }
-    ul {
-      margin-left: 20px;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin: 20px 0;
-    }
-    table, th, td {
-      border: 1px solid #bdc3c7;
-    }
-    th, td {
-      padding: 8px;
-      text-align: left;
-    }
-    .section {
-      margin-bottom: 30px;
-    }
-  </style>
-</head>
+
 <body>
   <div class="section">
     <h1>Barber Booking System ✂️</h1>
@@ -56,7 +11,7 @@
   <div class="section">
     <h2>Tech Stack</h2>
     <ul>
-      <li><strong>Backend:</strong> Laravel 10, Laravel Sanctum, Spatie Laravel Permission</li>
+      <li><strong>Backend:</strong> Laravel 11, Laravel Sanctum, Spatie Laravel Permission</li>
       <li><strong>Frontend:</strong> Vue 3, Vite, Pinia, Tailwind CSS</li>
       <li><strong>Auth:</strong> Token-based authentication</li>
       <li><strong>Other:</strong> PDF Export, Dynamic Roles/Permissions, Responsive UI</li>
@@ -115,15 +70,5 @@ npm run dev
       </tr>
     </table>
   </div>
-
-  <div class="section">
-    <h2>Screenshots</h2>
-    <p>Screenshots can be added later.</p>
-  </div>
-
-  <div class="section">
-    <h2>License</h2>
-    <p>This project is open-source and free to use.</p>
-  </div>
 </body>
-</html>
+
